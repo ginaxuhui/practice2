@@ -1,25 +1,6 @@
 // !$*UTF8*$!
 {
-	archiveVersion = 1;
-	classes = {
-	};
-	objectVersion = 46;
-	objects = {
-
-/* Begin PBXBuildFile section */
-		6F1E2AF61F5E407E0085C679 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6F1E2AF51F5E407E0085C679 /* main.cpp */; };
-/* End PBXBuildFile section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		6F1E2AF01F5E407E0085C679 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
+	
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
